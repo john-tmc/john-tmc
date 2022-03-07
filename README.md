@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-tmc&show_icons=true&theme=radical)]
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-tmc&show_icons=true&theme=radical&include_all_commits=true&count_private=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=john-tmc&langs_count=10)]
 <!--
 **john-tmc/john-tmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

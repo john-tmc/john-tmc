@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-tmc)]
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-tmc&show_icons=true&theme=radical)]
 <!--
 **john-tmc/john-tmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

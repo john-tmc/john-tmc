@@ -5,14 +5,21 @@
 <table>
   <tr>
     <td align="center"><img src="https://media.giphy.com/media/Qve9IgssqcQxPAQ2o4/giphy.gif" width="70%"></td>
-    <td><a href="https://profile.codersrank.io/user/john-tmc" target="_blank"><img alt="Loading CodersRank, Click to see profile!" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=john-tmc&badges=3&show-avatar=false&style=--header-bg-color:%290025" /> </a></td>
+<td>
+      
+[![CodersRank Summary](https://user-images.githubusercontent.com/60432816/157492749-3efdeab0-e9a8-4624-ac13-803ed0560472.png)](https://profile.codersrank.io/user/john-tmc)
+      
+</td>
   </tr>
 </table>
-<samp>Just another epistemophilic, with the desire to acquire new knowledge and sharpen existing ones in various fields, has pushed me to effectively observe, extract, construct & produce the high-quality work I have done over the years spanning various languages, frameworks & platforms. <br><br> Find out more about me & feel free to connect with me here:
+<samp>Just another epistemophilic, with the desire to acquire new knowledge and sharpen existing ones in various fields, has pushed me to effectively observe, extract, construct & produce the high-quality work I have done over the years spanning various languages, frameworks & platforms. <br><br> Currently looking for new opportunities. Find out more about me & feel free to connect with me here:
 </samp>
 
-[![Linkedin Badge](https://img.shields.io/badge/-john-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-m-530035219//)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Coders Rank Badge](https://shields.io/badge/%235-USA-68a3ac?logo=codersrank&style=flat-square&labelColor=BF0A30&logColor=white&link=https://profile.codersrank.io/user/john-tmc)](https://profile.codersrank.io/user/john-tmc)
+[![Linkedin Badge](https://img.shields.io/badge/-john-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-m-530035219/)](https://www.linkedin.com/in/john-m-530035219)
 [![Gmail Badge](https://img.shields.io/badge/-john@tmc.my.id-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:john+gh@tmc.my.id)](mailto:john+gh@tmc.my.id)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/johntmc)](https://t.me/johntmc)
+[![Indeed Badge](https://img.shields.io/badge/Indeed-2164f4?style=flat-square&logo=Indeed&logoColor=white&link=https://my.indeed.com/p/johnm-7jbcmc6)](https://my.indeed.com/p/johnm-7jbcmc6)
 
 <br> 
   
@@ -77,7 +84,7 @@ Badges list : https://github.com/Ileriayo/markdown-badges
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats-p83sv5i6j-john-tmc.vercel.app/api?username=john-tmc&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
     <br>
-    <img alt = "Top Language" src="https://github-readme-stats-p83sv5i6j-john-tmc.vercel.app/api/top-langs/?username=john-tmc&langs_count=10&hide=html,css,php,tsql,less,javascript" />
+    <img alt = "Top Language" src="https://github-readme-stats-p83sv5i6j-john-tmc.vercel.app/api/top-langs/?username=john-tmc&langs_count=10&hide=html,css,php,tsql,less,javascript,scss" />
 </p>
 </details>
 

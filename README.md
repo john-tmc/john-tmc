@@ -19,6 +19,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-john-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/john-m-530035219/)](https://www.linkedin.com/in/john-m-530035219)
 [![Gmail Badge](https://img.shields.io/badge/-john@tmc.my.id-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:john+gh@tmc.my.id)](mailto:john+gh@tmc.my.id)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/johntmc)](https://t.me/johntmc)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/13237233594)](https://wa.me/13237233594)
 [![Indeed Badge](https://img.shields.io/badge/Indeed-2164f4?style=flat-square&logo=Indeed&logoColor=white&link=https://my.indeed.com/p/johnm-7jbcmc6)](https://my.indeed.com/p/johnm-7jbcmc6)
 
 <br> 
